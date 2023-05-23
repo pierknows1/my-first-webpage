@@ -1,0 +1,30 @@
+ h1 {
+    color: red;
+    text-align: center;
+  }
+  
+  h2 {
+    font-style: italic;
+    text-align: center;
+  }
+  
+  p {
+    font-family: sans-serif;
+    color: rgba(0, 0, 255, 0.245);
+    text-align: left;
+    font-style: arial;
+    font-weight: 700;
+    font-size: medium;
+    line-height:1.5;
+
+  }
+
+
+  il {
+    color: #0afd1e; 
+  }
+  
+  ul {
+    font-size: 20px;
+    line-height: 30px;
+  }
